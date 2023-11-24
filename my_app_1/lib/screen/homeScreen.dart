@@ -30,7 +30,7 @@ class HomeScreen extends StatelessWidget {
           print('HOla mundo');
           counter++;
         },
-      ),
+      )
     );
   }
 }
